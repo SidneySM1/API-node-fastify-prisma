@@ -1,0 +1,12 @@
+GET http://localhost:3333/memories
+//06139331-1afc-4086-8b09-3c1e76724c51
+
+
+###
+
+DELETE http://localhost:3333/memories/06139331-1afc-4086-8b09-3c1e76724c51
+
+
+###
+
+POST http://localhost:3333/memories
